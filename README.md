@@ -15,4 +15,5 @@
 </p>
 
 Segue link para o Projeto: <a href="https://arthuryuki.github.io/js-developer-pokedex/" target="_blank" rel="noreferrer">Projeto Pokedex<a>
-[Imagem de visualização do projeto](./assets/img/preview.jpg)
+
+<img src="/assets/img/preview.jpg">
