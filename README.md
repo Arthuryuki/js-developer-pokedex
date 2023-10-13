@@ -14,6 +14,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
 </p>
 
-Segue link para o Projeto: <a href="https://arthuryuki.github.io/js-developer-pokedex/" target="_blank" rel="noreferrer">Projeto Pokedex<a>
+Segue link para o Projeto: <a href="" target="_blank" rel="noreferrer">Projeto Pokedex<a>
 
 <img src="/assets/img/preview.jpg">
